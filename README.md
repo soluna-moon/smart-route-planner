@@ -18,7 +18,7 @@ Simulates real-world route optimization using Dijkstra and A* algorithms.
 
 ## 🖥️ Demo
 
-[https://ai-algorithm-visualizer-pfzh3krbn-soluna-moons-projects.vercel.app]
+[https://smart-route-planner.vercel.app/]
 
 
 ## ⚙️ Tech Stack
