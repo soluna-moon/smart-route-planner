@@ -18,7 +18,7 @@ Simulates real-world route optimization using Dijkstra and A* algorithms.
 
 ## 🖥️ Demo
 
-👉 [https://your-link.vercel.app](https://your-link.vercel.app/)
+[https://ai-algorithm-visualizer-pfzh3krbn-soluna-moons-projects.vercel.app]
 
 
 ## ⚙️ Tech Stack
@@ -42,9 +42,16 @@ Uses heuristic to find the optimal path faster.
 
 ## Installation
 git clone <https://github.com/soluna-moon/smart-route-planner.git>
+
 cd smart-route-planner
+
 npm install
+
 npm run dev
+
+## Preview
+
+[App Screenshot](screenshot.route)
 
 ## Author
 Aldarassan Anel
