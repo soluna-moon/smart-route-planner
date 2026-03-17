@@ -1,0 +1,46 @@
+body {
+background: #0f172a;
+color: white;
+font-family: Avenir, sans-serif;
+}
+
+.grid {
+display: grid;
+grid-template-columns: repeat(30, 20px);
+justify-content: center;
+margin-top: 30px;
+gap: 2px;
+}
+
+.cell {
+width: 20px;
+height: 20px;
+background: #1e293b;
+border-radius: 3px;
+transition: 0.2s;
+}
+
+.cell:hover {
+transform: scale(1.1);
+}
+
+/* стены */
+.wall {
+background: #111827;
+}
+
+/* visited */
+.visited {
+background: #38bdf8;
+transition: 0.1s;
+}
+
+/* путь */
+.path {
+background: #facc15;
+}
+
+/* traffic */
+.traffic {
+background: #fb7185;
+}
