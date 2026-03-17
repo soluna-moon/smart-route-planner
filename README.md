@@ -3,6 +3,8 @@
 Interactive pathfinding visualizer built with React.
 Simulates real-world route optimization using Dijkstra and A* algorithms.
 
+## Demo
+![demo](./demo.gif)
 
 
 ## 🚀 Features
