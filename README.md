@@ -40,9 +40,6 @@ Guarantees shortest path by exploring all possible routes.
 Uses heuristic to find the optimal path faster.
 
 
-## 📸 Preview
-[App Screenshots](screenshots.route)
-
 ## Installation
 git clone <https://github.com/soluna-moon/smart-route-planner.git>
 cd smart-route-planner
